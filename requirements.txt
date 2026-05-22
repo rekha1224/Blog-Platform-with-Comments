@@ -1,0 +1,19 @@
+Requirements:
+
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB / MySQL / PostgreSQL
+- JWT Authentication
+- bcrypt
+- REST API
+- Redux / Context API
+- Tailwind CSS / Bootstrap
+- Git
+- GitHub
+- VS Code
+- Postman
+- Axios
